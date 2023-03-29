@@ -3,7 +3,7 @@
 <p><em>Bachelor of Information Technology <a href="https://www.uanl.mx">Universidad Autónoma de Nuevo León</a><img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: jorge-cerezo94](https://img.shields.io/badge/-jorge-cerezo94-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-cerezo94/)](https://www.linkedin.com/in/jorge-cerezo94/)
+[![Linkedin: jorge-cerezo94](https://img.shields.io/badge/jorge-cerezo94-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-cerezo94/)](https://www.linkedin.com/in/jorge-cerezo94/)
 [![GitHub Cerezoac94](https://img.shields.io/github/followers/cerezoac94?label=follow&style=social)](https://github.com/Cerezoac94)
 
 

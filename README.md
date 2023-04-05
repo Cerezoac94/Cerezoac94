@@ -11,10 +11,10 @@
 
 ```javascript
 const cerezo = {
-  pronouns: "He" | "Him",
-  askMeAbout: ["web dev", "tech", "ERP"],
-  code: [Javascript, Python, HTML, CSS, SQL, VB],
-  tools: [React, Redux toolkit, Node, Express.js, Styled-Components, Tailwind, Sequelize, Figma, Git]
+  pronouns: 'He' | 'Him',
+  askMeAbout: ['web dev', 'tech', 'ERP'],
+  code: ['Javascript', 'Python', 'HTML', 'CSS', 'SQL', 'VB'],
+  tools: ['React', 'Redux toolkit', 'Node', 'Express.js', 'Styled-Components', 'Tailwind', 'Sequelize', 'Figma', 'Git']
 }
 ```
 
